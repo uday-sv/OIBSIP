@@ -1,2 +1,2 @@
 # OIBSIP
-Tasks for Internship in Data Science at Oasis Infobyte Company.
+Tasks for an Internship in Data Science at Oasis Infobyte Company.
